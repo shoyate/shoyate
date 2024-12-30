@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">designer, developer & behavioral researcher.</h3>
 
-- 👨‍💻 All of my projects are available at [ycanbayrak.com](https://www.ycanbayrak.com)
+- 👨‍💻 All of my projects are available at [cans.design](https://cans.design)
 
 - 📫 How to reach me **canbayrak@outlook.com**
 
