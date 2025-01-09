@@ -3,4 +3,4 @@
 
 - 👨‍💻 All of my projects are available at [cans.design](https://cans.design)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyate&show_icons=true&locale=en&layout=compact" alt="shoyate" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyate&show_icons=true&locale=en&layout=compact" alt="shoyate" /></p>
