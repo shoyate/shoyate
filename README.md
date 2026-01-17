@@ -3,4 +3,3 @@
 
 <h4 align="center">👨‍💻 All of my projects are available at <a href="cans.design">cans.design</a></h4>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyate&show_icons=true&locale=en&layout=compact" alt="shoyate" /></p>
